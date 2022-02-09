@@ -2,7 +2,7 @@
 
 Prof. Leandro Almeida (lma3@cin.ufpe.br)
 
-![graph](./assets/datamining.jpg)
+![cover](./assets/datamining.jpg)
 
 A mineração de dados se refere a uma etapa do processo de descoberta de
 padrões em bases de dados. Esses padrões podem ser apresentados em
