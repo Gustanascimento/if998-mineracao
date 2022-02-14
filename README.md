@@ -32,7 +32,8 @@ regras e padrões utilizando scripts em Python.
 | Missão nº | Descrição            | File                                                                                                                        |
 | --------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | #2        | Tipos de dados e EDA | [02_Tipos_de_dados_e_EDA.ipynb](https://github.com/Gustanascimento/if998-mineracao/blob/main/02_Tipos_de_dados_e_EDA.ipynb) |
-| #3        | --------             | [--------](https://github.com/Gustanascimento/if998-mineracao/)                                                             |
+| #3        | Preparação dos Dados | [03_Preparacao_dos_dados.ipynb](https://github.com/Gustanascimento/if998-mineracao/blob/main/03_Prepara%C3%A7%C3%A3o_dos_dados.ipynb) |
+| #x        | --------             | [--------](https://github.com/Gustanascimento/if998-mineracao/)                                                             |
 
 <br>
 <br>
