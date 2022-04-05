@@ -1,4 +1,4 @@
-# IF998 - Soluções em Mineração de Dados
+# IF1018 - Soluções em Mineração de Dados
 
 Prof. Leandro Almeida (lma3@cin.ufpe.br)
 
