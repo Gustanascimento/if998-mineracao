@@ -23,7 +23,7 @@ regras e padrões utilizando scripts em Python.
 - Descoberta de padrões (Mineração de Dados): O que é, Origem, Motivação, Tarefas e Aplicações;
 - Dados e Problemas: Tipos de Dados, Análise Exploratória dos Dados, Processamento, Limpeza, Transformação, Representação;
 - Tarefas de Mineração de Dados: Aprendizagem, Classificação, Regressão, Associação e Agrupamentos;
-- Metodologias e Técnicas de descoberta de conhecimento: CRISP-DM, Máquinas de Vetores de Suporte, Árvores de Decisão, Redes Neurais, K-vizinhos Mais Próximos, K-médias, Ensembles e tratamento de Dados Desbalanceados;
+- Metodologias e Técnicas de descoberta de conhecimento: CRISP-DM, Máquinas de Vetores de Suporte, Árvores de Decisão, Redes Neurais, K-vizinhos Mais Próximos, K-médias, Ensembles e tratamento de Dados Desbalanceados
 
 <br>
 
